@@ -1,0 +1,20 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "Building an app using MERN stack to learn stacks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arieu/first-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arieu/first-project/issues"
+  },
+  "homepage": "https://github.com/arieu/first-project#readme"
+}
